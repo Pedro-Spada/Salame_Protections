@@ -1,10 +1,11 @@
 [
   {
-    "adress_ip": "177.92.76.170",
-    "server_name": "Test_Server"
+    "adress_ip": "168.194.43.151",
+    "server_name": "Main IP"
   },
   {
-    "adress_ip": "168.194.43.151",
-    "server_name": "Test_Server"
+    "adress_ip": "138.219.44.197",
+    "server_name": "Supra"
   }
 ]
+
