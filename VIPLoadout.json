@@ -4,6 +4,10 @@
     "server_name": "Main IP"
   },
   {
+    "adress_ip": "31.214.158.200",
+    "server_name": "Survivor Legacy"
+  },
+  {
     "adress_ip": "138.219.44.197",
     "server_name": "Supra"
   },
@@ -28,4 +32,5 @@
     "server_name": "ConnectZ / Ghost"
   }
 ]
+
 
